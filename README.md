@@ -27,4 +27,4 @@ Got the inspiration [here] (https://oncletom.io/2013/live-development-bower-comp
 
 ## License
 
-Licensed under Apache License 2.0
+Licensed under the Apache License 2.0
